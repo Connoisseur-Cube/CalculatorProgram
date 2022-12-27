@@ -1,5 +1,5 @@
 # CalculatorProgram
-It is a Calculator program made in Java using Apache netbeans, with GUI and event handling.
+It is a Calculator program made in Java with ANT in Apache netbeans, with GUI and event handling.
 
 I am sorting out a few kinks here and there. If you want to see a feature you want to see added, or find a bug, please write it in the Issues tab.
 
