@@ -7,3 +7,4 @@ The purpose of this project is purely educational. It is to learn about java eve
 
 I realize that the code is inefficient, and it is possible to reduce the code size by alot , but that is not my current goal.
 
+2/1/2022 - The calculator is broken on purpose.
